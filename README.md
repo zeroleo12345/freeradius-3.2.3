@@ -14,6 +14,6 @@ make clean
 
 make
 
-ls /app/third_party/freeradius-3.0.21/build/bin/
+ls ./build/bin/
 dhcpclient  local  map_unit  radattr  radclient  radeapclient  radiusd radmin  radwho  rbmonkey  smbencrypt  unittest
 ```
